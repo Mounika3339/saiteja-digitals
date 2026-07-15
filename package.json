@@ -1,0 +1,14 @@
+{
+  "name": "mahathi-clicks",
+  "version": "1.0.0",
+  "description": "Premium Photography Portfolio Website for Mahathi Clicks",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.2"
+  }
+}
